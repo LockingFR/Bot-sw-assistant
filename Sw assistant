@@ -1,0 +1,4 @@
+embed.add_field(name="Nom ligne",value="Valeur ligne")
+embed.set_thumbnail(url=f"{ctx.author.avatar.url}")
+embed.set_image(url=f"{ctx.author.avatar.url}")
+embed.set_footer(text="Footer")
